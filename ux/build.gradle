@@ -41,7 +41,7 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.github.nandupm'
-                artifactId = 'sceneform:ux'
+                artifactId = 'sceneform_ux'
                 version = '1.0.0'
             }
         }

@@ -73,7 +73,7 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.github.nandupm'
-                artifactId = 'sceneform:core'
+                artifactId = 'sceneform_core'
                 version = '1.0.0'
             }
         }
