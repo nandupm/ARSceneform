@@ -7,7 +7,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Sceneform"
-include ':app'
+//include ':app'
 include ':sceneform'
 include ':core'
 include ':ux'
